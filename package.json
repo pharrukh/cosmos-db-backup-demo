@@ -1,0 +1,28 @@
+{
+  "name": "cosmos-db-backup-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pharrukh/cosmos-db-backup-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "FN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pharrukh/cosmos-db-backup-demo/issues"
+  },
+  "homepage": "https://github.com/pharrukh/cosmos-db-backup-demo#readme",
+  "dependencies": {
+    "azure-storage": "^2.10.1",
+    "azure-storage-simple": "^1.0.0",
+    "documentdb": "^1.14.5",
+    "unix-timestamp": "^0.2.0"
+  }
+}
